@@ -1,0 +1,1 @@
+console.log("Welcome to Day 1 of Learning Javascript");
