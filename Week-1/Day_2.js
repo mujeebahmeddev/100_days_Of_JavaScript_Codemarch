@@ -1,4 +1,0 @@
-// DataTypes
-
-// Numbers
-let num =
